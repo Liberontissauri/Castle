@@ -1,4 +1,4 @@
-# Castle 🎲
+# Castle API 🎲
 ## Ranked online chess matches
 
 Castle is a service built in rust using the axum web framework.
